@@ -1,0 +1,13 @@
+@media screen and (max-width:730px){
+    .container{
+        width: 80vw;
+    }
+
+    .imagem-area{
+        background-image: none;
+    }
+
+    .conteudo-area{
+        background-position: 464px 10px;
+    }
+}
